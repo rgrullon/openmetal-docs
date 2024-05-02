@@ -40,8 +40,8 @@ Storage](https://openmetal.io/docs/manuals/tutorials/ephemeral_storage).
 
 ## Ceph Version Used by Private Clouds
 
-With current Private Cloud deployments, Ceph's [Octopus
-release](https://docs.ceph.com/en/latest/releases/octopus/) is used.
+With current Private Cloud deployments, Ceph's [Reef
+release](https://docs.ceph.com/en/latest/releases/reef/) is used.
 
 ## View Disk Usage of the Ceph Cluster
 
